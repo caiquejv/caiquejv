@@ -10,10 +10,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquejv&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+
  ##
 <h1 align="left"> Linguagens e ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Caique-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Caique-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Caique-Java"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Caique-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caique-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
