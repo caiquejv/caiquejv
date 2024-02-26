@@ -1,6 +1,6 @@
 
  <h1 align="center">Olá, eu me chamo Caíque Villela! <br> Seja bem-vindo(a) ao meu perfil do Github!👋 </h1>
-<h3 align="left">Sou cientista da computação formado pela Universidade Salvador - UNIFACS. Atualmente sou estagiário de desenvolvimento na Stefanini Brasil, onde tenho a oportunidade de trabalhar em projetos interessantes e desafiadores. E estou apeifoçando os meu conhecimentos em desenvolvimento web! </h3>
+<h3 align="left">Sou cientista da computação formado pela Universidade Salvador - UNIFACS. Atualmente estou apeifoçando os meu conhecimentos em desenvolvimento web e mobile! </h3>
 
 
   ##
